@@ -44,8 +44,7 @@ export default function Hero() {
           <p className="mt-6 max-w-2xl text-lg leading-8 text-zinc-300">
              Systems Engineering student and aspiring full-stack developer 
              with a strong interest in web development, automation, machine learning,
-             and emerging technologies. I enjoy building modern applications 
-             with Next.js, React, TypeScript, and Tailwind CSS, while continuously 
+             and emerging technologies. I enjoy building modern applications, while continuously 
              learning through experimentation, problem-solving, and hands-on projects.
           </p>
 
